@@ -1,11 +1,4 @@
-SnamlScript
-===========
-
-<<<<<<< HEAD
-1 Introduction
-=======
 1. Introduction
->>>>>>> SnamlScript Release 1
 
 SnamlScript is a HTML5 generator for Web applications. 
 
@@ -19,33 +12,11 @@ SnamlScript worked for multiple platforms such as Windows, Linux, MacOSX, .etc.
 
 Neatware released SnamlScript as Open Source in Apache 2.0 License.
 
-<<<<<<< HEAD
-2 Source Code
-=======
 2. Source Code
->>>>>>> SnamlScript Release 1
 
 SnamlScript 5.0 implementation was presented in source code snaml5.tcl. pkgIndex.tcl is the file to make 
 snaml5.tcl as a package of tcl. 
 
-<<<<<<< HEAD
-3 Demo in Windows
-
-This is the SnamlScript demo with Samples on Windows. 
-
-- Download SnamlScript.zip for Windows.
-- unzip SnamlScript.zip
-- cd SnamlScript\bin
-- run snamlscript.exe
-- cd ..\samples\angularhello 
-- source angularhello.sml
-- start angularhello.html
-- type angularhello.sml 
-
-Basiclly you can launch a snamlscript console (that is equal to tcl 8.6) and try various samples.
-
-4 Copyrights
-=======
 3. Demo in Windows
 
 This is the SnamlScript demo with Samples on Windows. 
@@ -62,14 +33,10 @@ This is the SnamlScript demo with Samples on Windows.
 Basiclly you can launch a snamlscript console (that is equal to tcl 8.6) and try various samples.
 
 4. Copyrights
->>>>>>> SnamlScript Release 1
 
 Neatware owns the copyrights of SnamlScript.
 HTML5, Javascript, CSS are copyrights of one of International Standard Organization.  
 Tcl/Tk are the copyrights of other third parties in Open Source.
  
 Copyrights (c)2014 Neatware. All rights reserved.
-<<<<<<< HEAD
-=======
-
->>>>>>> SnamlScript Release 1
+ 
